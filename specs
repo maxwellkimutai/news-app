@@ -1,0 +1,7 @@
+News App
+
+## Specs
+* The program displays news sources from the News API Website
+* The home page contains all the news sources and a search form
+* When a user clicks on a source they are redirected to a page that shows news from that source only
+* If the user wants to read more they are redirected to the article on the source file
