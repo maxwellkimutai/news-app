@@ -1,7 +1,15 @@
 News App
 
 ## Specs
-* The program displays news sources from the News API Website
-* The home page contains all the news sources and a search form
-* When a user clicks on a source they are redirected to a page that shows news from that source only
-* If the user wants to read more they are redirected to the article on the source file
+
+The program lets a user pick a source from the various categories
+* Example input: ABC News
+* Example output: displays news from ABC News only
+
+The program lets the user search for News based on keywords
+* Example input: Bitcoin
+* Example output: displays news with the keyword bitcoin
+
+The program redirects the user to the News article's source site for the full story
+* Example input: Read More
+* Example output: Redirects to the article source site
